@@ -11,3 +11,7 @@ Analyze pharmaceutical market data and create a dashboard to track product perfo
 ### Result
 - Created a dashboard for easy analysis of market performance  
 - Enabled quick insights through visual reporting
+
+### Dashboard Preview
+
+![Dashboard](Dashboard.png)
